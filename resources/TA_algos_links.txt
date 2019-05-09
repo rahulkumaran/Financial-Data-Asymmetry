@@ -1,0 +1,21 @@
+Technical Analysis algorithms
+1. Average True Range (ATR) over a period of 14 days.
+2. Moving Average Convergence Divergence (MACD) with simple moving average method and 26 days & 12 days for the slow and fast periods respectively.
+3. Money Flow Index (MFI) over a period of 14 days.
+4. FastK and FastD values of Stochastic Oscillator using 14,3, and 3 days for FastK, FastD, SlowD respectively.
+5. Directional Movement Index (DMI) using 14 days
+6. Commodity Channel Index (CCI) using 20 days, and 0.015 as the constant to apply to the mean deviation.
+7. Relative Strenght Index (RSI) using 14 days and weighted moving average.
+8. Price Rate of Change (ROC) over 252 or 126 trading days.
+9. The Chaikin Accumulation / Distribution (AD) line.
+Source : Comparing Technical and Fundamental indicators in stock price forecasting - Erhan Beyaz, Firat Tekiner, Xiao-jun Zeng, John A. Keane, School of Computer Science, University of Manchester, Manchester, UK
+6 Technical Analysis implementations - https://www.quantinsti.com/blog/build-technical-indicators-in-python
+
+Links for Technical Analysis
+	https://www.quantinsti.com/blog/build-technical-indicators-in-python
+	TOO LONG - https://www.datacamp.com/community/tutorials/finance-python-trading
+	INCOMPLETE IMPLEMENTATION -	https://technical-analysis-library-in-python.readthedocs.io/en/latest/ta.html#
+	https://buildmedia.readthedocs.org/media/pdf/technical-analysis-library-in-python/latest/technical-analysis-library-in-python.pdf
+	https://stackoverflow.com/questions/4406481/financial-technical-analysis-in-python
+	https://www.quantopian.com/posts/technical-analysis-indicators-without-talib-code
+	https://towardsdatascience.com/trading-technical-analysis-with-pandas-43e737a17861
